@@ -1,7 +1,7 @@
 package Array_Problems;
 
 //This is tuf's logic, mine is commented, mine is inefficient
-public class ZerostoEnd {
+public class ZerosToEnd {
     public static int[] moveZeros(int n, int []a) {
         int j = -1;
         //place the pointer j:
