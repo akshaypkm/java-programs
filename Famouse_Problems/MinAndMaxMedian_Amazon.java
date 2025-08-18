@@ -1,4 +1,4 @@
-package Array_Problems;
+package Famouse_Problems;
 
 
 import java.util.ArrayList;
@@ -34,6 +34,8 @@ public class MinAndMaxMedian_Amazon {
         ans.add(maxMedian);
         return ans;
     }
+
+    
 
     public static void main(String[] args) {
         // Hardcoded test input
