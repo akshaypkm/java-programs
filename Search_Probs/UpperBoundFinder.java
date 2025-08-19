@@ -27,7 +27,8 @@ import java.util.Scanner;
 
         while(left<=right){
             int mid = (left+right) / 2;
-            System.out.println(mid);
+            
+
 
             if(arr[mid]>x){
                 ans = mid;
