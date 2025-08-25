@@ -30,6 +30,8 @@ import java.util.Scanner;
             
 
 
+
+
             if(arr[mid]>x){
                 ans = mid;
                 right = mid -1;
